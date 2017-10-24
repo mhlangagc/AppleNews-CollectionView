@@ -11,7 +11,7 @@ The entire view is built in code i.e. Without XIB's or Storyboards and is a simp
 
 Feel free to Fork and view the code. 
 <div align="center">
-<img src="https://github.com/mhlangagc/Feedback-System/blob/master/Feedback/ExampleImage.png" alt="Feedback-System"/>
+<img src="https://github.com/mhlangagc/News-Collection/blob/master/News/NewsExample.PNG" alt="Feedback-System"/>
 </div>
 
 ##  Requirements :
