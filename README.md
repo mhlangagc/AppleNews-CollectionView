@@ -1,4 +1,4 @@
-# News-Collection
+# AppleNews-CollectionView
 
 A collection view implementation example adopted from the Apple News App Layout. The cells within the umberella collection have nested Collection Views that also have their own Cells and more nested Collections Views in some cases. 
 The entire view is built in code i.e. Without XIB's or Storyboards and is a simple example of how to build Nested Collection Views. 
